@@ -26,4 +26,20 @@ pip install numpy matplotlib
 ```
 ## How To Use
 
+1. Clone this repository to your local machine.
+
+2. Open your terminal or command prompt and navigate to the project folder.
+
+**To run the orbit simulation (Project 1):**
+```bash
+python project1.py
+```
+A window will open displaying the calculated orbits, with the Earth and Moon marked in red.
+
+**To run the accuracy tests (Project 2):**
+```bash
+python project2.py
+```
+The script will execute and print the calculated errors directly to the console.
+
 
